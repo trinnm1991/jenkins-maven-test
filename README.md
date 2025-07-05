@@ -3,4 +3,4 @@
 - Có thể sử dụng lại để build và test với Jenkins
 - Có thể sử dụng workflow của GitHub Action để test.
 - Add super-linters
-- Xin chào tvu
+- Xin chào tvu - edit 1
