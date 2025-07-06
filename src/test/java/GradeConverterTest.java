@@ -70,4 +70,10 @@ public class GradeConverterTest {
         assertEquals(expected,actual);
     }
 
+    @Test
+    public void testConvert10() throws Exception {
+        String expected = "C";
+        String actual = converter.convert(77);
+        assertEquals(expected, actual);
+    }
 }
